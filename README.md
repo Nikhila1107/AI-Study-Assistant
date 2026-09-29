@@ -28,4 +28,10 @@ Users can upload PDF study materials, generate summaries, ask questions, and lis
 Install the required Python packages:
 
 ```bash
+
 pip install -r requirements.txt
+```
+
+## Demo Video
+
+[Watch the AI Study Assistant demo](https://drive.google.com/file/d/1g1d4iNtPK8mwN2BRVaBvQhF2zTaXdW8h/view?usp=sharing)
