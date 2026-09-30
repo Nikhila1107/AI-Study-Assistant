@@ -77,7 +77,11 @@ py -m streamlit run app.py
 ```
 ## Screenshots
 
-Screenshots of the AI Study Assistant application will be added here.
+![AI Study Assistant Screenshot 1](Screenshot%202026-09-29%20204726.png)
+
+![AI Study Assistant Screenshot 2](Screenshot%202026-09-29%20204906.png)
+
+![AI Study Assistant Screenshot 3](Screenshot%202026-09-29%20204928.png)
 
 ## Future Enhancements
 
